@@ -1,0 +1,6 @@
+#mycanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; /* Ensure it's displayed above other content */
+}
